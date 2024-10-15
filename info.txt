@@ -1,0 +1,2 @@
+API key = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp4bHFoa3V6aXl0d2FscHZkaXZzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjkwMjgzMzAsImV4cCI6MjA0NDYwNDMzMH0.WgnNxSXdc6qRALRVGDKFT2lsCEfh2VYlUTkQ7Ne8Xlk
+Supabase URL = https://jxlqhkuziytwalpvdivs.supabase.co
